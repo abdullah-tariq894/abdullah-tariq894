@@ -1,13 +1,21 @@
 <div align="center">
 
-# 👋 Hi, I'm Abdullah Tariq! 🚀
+# 👋 Hey there, I'm Abdullah Tariq! 🚀
 
-### 💻 Frontend & <strong style="color: #2563eb;">Full Stack Developer</strong> | Turning Ideas Into Scalable Web Apps ⚡
+### 💻 Frontend & <strong style="color: #2563eb;">Full Stack Developer</strong> | Building Scalable Web Applications & Modern UIs ⚡
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-blue?style=for-the-badge&logo=netlify)](https://about-abdullah-tariq.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdullah-tariq-b63a8a3ba)
-[![Email](https://img.shields.io/badge/📧_Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:abdullahhere233@gmail.com)
-[![Download CV](https://img.shields.io/badge/📄_Download_CV-View_Resume-green?style=for-the-badge&logo=adobeacrobatreader)](https://about-abdullah-tariq.netlify.app/)
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open_to_Work-success?style=for-the-badge&logo=icloud" />
+  <img src="https://img.shields.io/badge/Location-Karachi%2C_Pakistan-blue?style=for-the-badge&logo=googlemaps" />
+  <img src="https://img.shields.io/badge/Focus-Full_Stack_Development-orange?style=for-the-badge&logo=codeforces" />
+</p>
+
+<p align="center">
+  <a href="https://about-abdullah-tariq.netlify.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-blue?style=for-the-badge&logo=netlify" /></a>
+  <a href="https://www.linkedin.com/in/abdullah-tariq-b63a8a3ba"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/abdullah-tariq894"><img src="https://img.shields.io/badge/🐙_GitHub-Follow-lightgrey?style=for-the-badge&logo=github" /></a>
+  <a href="mailto:abdullahhere233@gmail.com"><img src="https://img.shields.io/badge/📧_Email-Contact_Me-red?style=for-the-badge&logo=gmail" /></a>
+</p>
 
 </div>
 
@@ -22,6 +30,10 @@
 ---
 
 ### ⚡ Tech Stack & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,firebase,git,github,vscode,netlify,vercel" />
+</p>
 
 | Category | Technologies & Skills |
 | :--- | :--- |
@@ -61,20 +73,5 @@
 * 📧 **Email:** abdullahhere233@gmail.com
 
 <div align="center">
-  <h3>⭐ Feel free to check out my repositories and drop a star if you like my work! ⭐</h3>
-</div>## Hi there 👋
-
-<!--
-**abdullah-tariq894/abdullah-tariq894** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h3>⭐ Don't forget to leave a star on my repositories if you like my work! ⭐</h3>
+</div>
